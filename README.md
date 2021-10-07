@@ -8,3 +8,4 @@ arduino project
 5- obstacle avoider.
 6- change face expression according to the situation.
 7- it have lots of sensor like accelerometer , TTP223 (touch sensor ),etc.
+<img width="402" alt="Assitance Bot" src="https://user-images.githubusercontent.com/50056654/136361387-2ba09fa5-360a-4b8e-876e-0413b6806cf0.png">
