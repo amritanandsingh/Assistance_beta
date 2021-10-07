@@ -7,3 +7,4 @@ arduino project
 4- in case of damage of bot it activates the shocking system.
 5- obstacle avoider.
 6- change face expression according to the situation.
+7- it have lots of sensor like accelerometer , TTP223 (touch sensor ),etc.
